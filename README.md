@@ -1,2 +1,1 @@
-# u2ds
-Universal Data Display System
+# Universal Data Display System
